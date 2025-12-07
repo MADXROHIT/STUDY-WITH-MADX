@@ -1,0 +1,37 @@
+{
+  "app_enabled": false,
+  "message": "Maintenance ongoing — back soon",
+
+  "videos_1": [
+    {
+      "lecture": 1,
+      "title": "HOW TO OPEN APP",
+      "description": "FREE ALL MOD APK .",
+      "url": "https://youtu.be/ZMomrL40nr4?si=SdXoIteR-5uM2KjY",
+      "pdf": "none",
+      "new": true,
+      "release": "2025-01-01",
+      "locked": false
+    },
+    {
+      "lecture": 2,
+      "title": "HOW TO OPEN RWA",
+      "description": "FREE MOD APK MADXROHIT.",
+      "url": "https://youtu.be/eOzqlVBBkA8?si=m10St78IW_Db7nM0",
+      "pdf": "https://drive.google.com/uc?export=download&id=PDF_FILE_ID",
+      "new": false,
+      "release": "2025-01-02",
+      "locked": false
+    },
+    {
+      "lecture": 3,
+      "title": "Advanced Concepts",
+      "description": "More powerful concepts with practical use cases.",
+      "url": "none",
+      "pdf": "none",
+      "new": false,
+      "release": "Coming Soon",
+      "locked": false
+    }
+  ]
+}
